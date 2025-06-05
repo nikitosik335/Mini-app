@@ -14,6 +14,7 @@ buy_btn.addEventListener('click',function() {
     form.style.display = 'flex';
     form.style.flexDirection = 'column';
     form.style.alignItems = 'center';
+    form.style.margin = 'auto';
 });
 
 form_btn.addEventListener('click',function() {
