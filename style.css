@@ -47,3 +47,13 @@ input {
     border:2px solid silver;
     border-radius:5px;
 }
+
+#frmbtn {
+    width:90%;
+    outline: none;
+    margin: 10px 5%;
+    padding: 15px 10px;
+    font-size: 14px;
+    border:2px solid silver;
+    border-radius:5px;
+}
