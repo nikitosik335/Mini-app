@@ -56,5 +56,8 @@ input {
     font-size: 14px;
     border:2px solid silver;
     border-radius:5px;
-    color:var(--tg-theme-secondary-bg-color);
+}
+
+#frmbtn:hover {
+color:var(--tg-theme-secondary-bg-color);
 }
